@@ -56,11 +56,12 @@ export const Navbar = () => (
             </div>
         </div>
         <div className={styles.container_7} >
+            <div  className={styles.container_10}>
             <div className={styles.container_9} >
                 <div className={styles.container_8}>
                   
                 </div>
-                <div>
+                <div className={styles.container_11}>
                     <h3>
                     Executive Producer
                     </h3>
@@ -73,7 +74,22 @@ export const Navbar = () => (
                 <div className={styles.container_8}>
                   
                 </div>
-                <div>
+                <div className={styles.container_11}>
+                    <h3>
+                    Executive Producer
+                    </h3>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </p>
+                </div>
+                </div>
+            </div>
+            <div  className={styles.container_10}>
+            <div className={styles.container_9} >
+                <div className={styles.container_8}>
+                  
+                </div>
+                <div className={styles.container_11}>
                     <h3>
                     Executive Producer
                     </h3>
@@ -82,6 +98,48 @@ export const Navbar = () => (
                     </p>
                 </div>
             </div>
+            <div className={styles.container_9} >
+                <div className={styles.container_8}>
+                  
+                </div>
+                <div className={styles.container_11}>
+                    <h3>
+                    Executive Producer
+                    </h3>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </p>
+                </div>
+                </div>
+                </div>
+                <div  className={styles.container_10}>
+            <div className={styles.container_9} >
+                <div className={styles.container_8}>
+                  
+                </div>
+                <div className={styles.container_11}>
+                    <h3>
+                    Executive Producer
+                    </h3>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </p>
+                </div>
+            </div>
+            <div className={styles.container_9} >
+                <div className={styles.container_8}>
+                  
+                </div>
+                <div className={styles.container_11}>
+                    <h3>
+                    Executive Producer
+                    </h3>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </p>
+                </div>
+                </div>
+                </div>
         </div>
     </>
 )

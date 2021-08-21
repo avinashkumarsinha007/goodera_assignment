@@ -100,7 +100,7 @@
 }
 .container_7{
     background-color: #EAEAEA;
-    height: 600px;
+    height: max-content;
     position: absolute;  
     top: 364px;
     width: 100%;
@@ -120,12 +120,25 @@
     width: 150px;
     height: 150px;
     background-color: grey;
-
+    border-radius: 8px;
 }
 
 .container_9{
-    margin-top: 8%;
+    
     display: flex;
     width: 40%;
     margin: auto;
+}
+
+.container_10{
+    display: flex;
+    margin: auto;
+    margin-top: 8%;
+    width: 95%;
+    
+}
+
+.container_11{
+    width: 70%;
+    margin-left: 10%;
 }
